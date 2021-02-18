@@ -38,9 +38,10 @@ To run a project, please follow the link [https://sheymanidze.github.io/homework
 
 ## Test
 
-After checking page for accessibility [https://wave.webaim.org/](https://wave.webaim.org/) several errors and alerts were found [errors-and-alerts](/Users/Anastasia/homework01/assets/images/errors and alerts.png):
+After checking page for accessibility [https://wave.webaim.org/](https://wave.webaim.org/) several errors and alerts were found [errors-and-alerts](./assets/images/errors-and-alerts.png):
 1. 3 Contrast Errors "Very low contrast" 
-[adjustments-within-wave-report](/Users/Anastasia/homework01/assets/images/adjustments within wave.png)
+[adjustments-within-wave-report](./assets/images/adjustments-within-wave.png)
 2. 3 Alerts "Redundant alternitive text"
 
 ## Revisions
+
