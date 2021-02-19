@@ -19,19 +19,21 @@ Code needed to be adjusted to follow accessibility standarts, have better struct
 HTML:
 * Replacement of non-semantic elements with semantic such as 
 1. <div class="header"> to <header class="header">;
-2. <div class="footer"> to <footer class="footer">
+2. <div class="footer"> to <footer class="footer">;
+3. <div> to <section>;
 * Adding alt to every img 
 * Fixing SEO link by adding id="Search Engine Optimization"
-* Adding word "group" for elements: benefit-lead, benefit-brand, and bemefit-cost. It will let us to make changes in css for all "group" class instead of listing every single one separately.  
+* Adding word "group" for elements: benefit-lead, benefit-brand, and bemefit-cost. It will let us to make changes in css for all "group" class instead of listing every single one separately. 
+*Adding word line for elements: search-engine-optimization, social-media-marketing; search-engine-optimization img, online-reputation-managemnet img, social-media-marketing img; search-engine-optimization h2, and online-reputation-managemnet h2.
 
 CSS:
-* .search-engine-optimization, .online-reputation-managemnet, .social-media-marketing; .search-engine-optimization img, .online-reputation-managemnet img, .social-media-marketing img; and .search-engine-optimization h2, online-reputation-managemnet h2, social-media-marketing h2 were put after.content to follow sequential order.
+* .search-engine-optimization, .online-reputation-managemnet, .social-media-marketing; .search-engine-optimization img, .online-reputation-managemnet img, .social-media-marketing img; and .search-engine-optimization h2, online-reputation-managemnet h2, .social-media-marketing h2 were put after.content to follow sequential order.
 * Repetitive components were deleted and replaced with .group, .group img, .group h3
 
 
 ## Screenshot
  
- [Finished-product](/Users/Anastasia/homework01/assets/images/screencapture-file-Users-Anastasia-homework01-index-html-2021-02-18-15_22_32.png)
+ [Finished-product](/Users/Anastasia/homework01/assets/images/horiseon-website.png)
 
 ## Deployment of application
 To run a project, please follow the link [https://sheymanidze.github.io/homework-01-code-refactor/](https://sheymanidze.github.io/homework-01-code-refactor/)
