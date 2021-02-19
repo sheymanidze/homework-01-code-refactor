@@ -75,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/*moved up based on html structure*/
+/*moved up based on html structure, combined similar attributes*/
 .line{
     margin-bottom: 20px;
     padding: 50px;

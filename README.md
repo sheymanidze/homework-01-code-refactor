@@ -47,3 +47,6 @@ After checking page for accessibility [https://wave.webaim.org/](https://wave.we
 
 ## Revisions
 
+Changing alt text for the img's in order not to be repetitive, 
+Contrast has to be changed/adjusted since it is fail accessibility test
+In the future: buttons for keyboard users has to be added as well as screen size changing depending on the device.
