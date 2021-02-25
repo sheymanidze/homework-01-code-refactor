@@ -33,7 +33,7 @@ CSS:
 
 ## Screenshot
  
- [Finished-product](/Users/Anastasia/homework01/assets/images/horiseon-website.png)
+![Finished-product](./assets/images/horiseon-website.png)
 
 ## Deployment of application
 To run a project, please follow the link [https://sheymanidze.github.io/homework-01-code-refactor/](https://sheymanidze.github.io/homework-01-code-refactor/)
